@@ -1,4 +1,4 @@
---Boronide™ Obfuscation, v0.6.4
+
 
 local i,Z,M=nil,nil,nil([[
 
